@@ -1,2 +1,2 @@
 # agri
-Smart farm and greenhouse management system
+Smart greenhouse and fishing farm management system
